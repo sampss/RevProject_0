@@ -8,7 +8,7 @@ object DBWorker extends UserSettings{
 
   def main(args: Array[String]) {
 
-    // test again
+    // test again 3
     try {
       // make the connection
       Class.forName(driver)
